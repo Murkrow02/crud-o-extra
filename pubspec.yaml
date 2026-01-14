@@ -9,8 +9,10 @@ environment:
 
 dependencies:
   crud_o_core:
+    #path: ../crud-o-core
     git: https://github.com/Murkrow02/crud-o-core
   crud_o:
+    #path: ../crud-o
     git: https://github.com/Murkrow02/crud-o
   file_picker: ^8.1.4
   flutter_image_compress: ^2.3.0
